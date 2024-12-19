@@ -1,9 +1,11 @@
 
 - ✯¸.•´*¨`*•✿✿•*`¨*`•.¸✯¸.•´*¨`*•✿
-- 💃🏻 @hot-coding-chic
+-
+- 💃🏻 @hot-coding-chic.
 - 👀 interested in python & js.
 - 🌱 a newb at this but I enjoy it.
-- 💞️ I love stretching my brain.
--  https://mastodon.social/@SquishyWonton
+- 💞️ & I love a good challenge.
+-
 - ✯¸.•´*¨`*•✿✿•*`¨*`•.¸✯¸.•´*¨`*•✿
 
+<a rel="me" href="https://mastodon.social/@SquishyWonton">Mastodon</a>
