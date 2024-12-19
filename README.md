@@ -6,5 +6,4 @@
 - 💞️ I love stretching my brain.
 -  https://mastodon.social/@SquishyWonton
 - ✯¸.•´*¨`*•✿✿•*`¨*`•.¸✯¸.•´*¨`*•✿
- 
-<a rel="me" href="https://mastodon.social/@SquishyWonton">Mastodon</a>
+
